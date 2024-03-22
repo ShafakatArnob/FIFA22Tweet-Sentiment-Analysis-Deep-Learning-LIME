@@ -5,4 +5,4 @@
 ## **Publication**
 
 - Published in: [26th IEEE ICCIT 2023](https://iccit.org.bd/2023/)
-- DOI: []
+- DOI: [10.1109/ICCIT60459.2023.10441156](https://ieeexplore.ieee.org/document/10441156)
